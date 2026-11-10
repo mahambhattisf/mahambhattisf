@@ -13,10 +13,10 @@
 ### 👩‍💻 About Me
 I'm a full stack developer who enjoys turning ideas into complete, working products, from the database and API to a polished user interface.
 
-- 🔭 Currently working on **YOUR CURRENT PROJECT**
-- 🌱 Currently learning **YOUR NEXT SKILL (e.g. TypeScript, Docker, System Design)**
+
+- 🌱 Currently learning TypeScript
 - 💬 Ask me about **Web Development, APIs, Databases**
-- 📫 Reach me at **YOUR_EMAIL**
+
 
 ### 🛠️ Tech Stack
 
