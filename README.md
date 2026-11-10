@@ -56,14 +56,6 @@ I'm a full stack developer who enjoys turning ideas into complete, working produ
   <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Project One**](https://github.com/YOUR_USERNAME/project-one) | What it does in one line | React, Node.js, MongoDB |
-| [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | What it does in one line | React, Express, MySQL |
-| [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | What it does in one line | JavaScript, REST API |
-
 ### 🤝 Let's Connect
 I'm open to collaborations, freelance work, and new opportunities. Feel free to reach out!
 
